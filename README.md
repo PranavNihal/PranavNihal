@@ -24,10 +24,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
+## 📊 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavNihal&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavNihal&layout=compact&theme=dark)
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/pranavnihal)
+- 💼 [LinkedIn](https://linkedin.com/in/Pranav_Nihal)
 - 📧 [Email](mailto:pranavnihal001@gmail.com)
 
 ---
