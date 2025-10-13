@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer with expertise in modern web technologies
-- 🎯 Passionate about clean code, problem-solving, and continuous learning
-- 🌱 Always exploring new tools and frameworks to enhance my skillset
-- 🤝 Open to collaboration and contributing to open-source projects
+- 💻 Versatile developer with expertise across multiple programming languages
+- 🎯 continuous learning
+- 🤝 Active collaborator in open-source projects and team development initiatives
+- 🏆 Experienced in contributing to diverse projects spanning Java, C/C++, COBOL, and Python
 
 ## 💬 Languages
 
@@ -26,13 +26,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavNihal&show_icons=true&theme=dark)
+![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavNihal&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavNihal&layout=compact&theme=dark)
+## 🌟 Key Contributions
+
+- Java, C, and C++ projects with strong algorithmic foundations
+- Python-based solutions and data-driven applications
+- COBOL legacy system experience and maintenance
+- Cross-functional team collaborations and code reviews
+- Open-source contributions and community projects
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/Pranav_Nihal)
+- 💼 [LinkedIn](https://linkedin.com/in/pranavnihal)
 - 📧 [Email](mailto:pranavnihal001@gmail.com)
 
 ---
