@@ -50,20 +50,9 @@
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PranavNihal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="Pranav's GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavNihal&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0080&currStreakLabel=00FF41" alt="Pranav's GitHub Streak" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavNihal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavNihal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FF0080" alt="Contribution Graph" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=PranavNihal&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavNihal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FF0080" alt="Contribution Graph" />
 
 </div>
 
@@ -122,10 +111,6 @@ class Developer {
 ### 💭 Developer Quote of the Day
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🐍 Watch my contribution graph get eaten by a snake!
-
-![Snake animation](https://raw.githubusercontent.com/PranavNihal/PranavNihal/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
