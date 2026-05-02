@@ -39,6 +39,6 @@ I'm a first-year CS student who enjoys working close to the metal — from x86 A
 ║  precision    █████████████░░░░░░░  68%  ║
 ║  tenacity     ████████████████████ 100%  ║
 ║                                          ║
-║  verdict: still processing...        _   ║
+║  verdict: still processing...            ║
 ╚══════════════════════════════════════════╝
 ```
