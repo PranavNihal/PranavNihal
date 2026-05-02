@@ -1,4 +1,4 @@
-# Hi, I'm Pranav 👋
+# Hi, I'm Pranav :)
  
 I'm a first-year CS student who enjoys working close to the metal — from x86 Assembly and C/C++ to Python and legacy COBOL systems. I care about writing clean, purposeful code and building things that actually matter.
  
