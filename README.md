@@ -31,8 +31,8 @@ I'm a first-year CS student who enjoys working close to the metal — from x86 A
  
 ```
 ╔══════════════════════════════════════════╗
-║  CIEL :: analysis complete               ║
-║  subject: pranav                         ║
+║  CIEL :: 解析 [ Analysis ]               ║
+║  subject: Pranav                         ║
 ╠══════════════════════════════════════════╣
 ║                                          ║
 ║  curiosity    ████████████████░░░░  82%  ║
