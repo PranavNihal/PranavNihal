@@ -30,14 +30,15 @@ I'm a first-year CS student who enjoys working close to the metal — from x86 A
 ---
  
 ```
-┌──────────────────────────────────────────┐
-│  pranav@dev:~$  _                        │
-│                                          │
-│  > learning...        [██████████] 100%  │
-│  > building...        [████████░░]  80%  │
-│  > collaborating...   [██████░░░░]  60%  │
-│                                          │
-│  status: always improving               │
-└──────────────────────────────────────────┘
+╔══════════════════════════════════════════╗
+║  CIEL :: analysis complete               ║
+║  subject: pranav                         ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  curiosity    ████████████████░░░░  82%  ║
+║  precision    █████████████░░░░░░░  68%  ║
+║  tenacity     ████████████████████ 100%  ║
+║                                          ║
+║  verdict: still processing...        _   ║
+╚══════════════════════════════════════════╝
 ```
- 
