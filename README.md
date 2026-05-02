@@ -42,3 +42,6 @@ I'm a first-year CS student who enjoys working close to the metal — from x86 A
 ║  verdict: still processing...            ║
 ╚══════════════════════════════════════════╝
 ```
+---
+*Avatar artwork is fanart of Ciel (Tensura) — artist unknown, if you know the source please let me know.*
+ 
