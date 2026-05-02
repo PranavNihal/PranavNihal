@@ -17,8 +17,9 @@ Currently focused on sharpening my fundamentals and contributing to open-source 
  
 | Project | What it does |
 |--------|--------------|
-| [EON](https://github.com/PranavNihal/EON) | A Custom Programming Language Coded completely from scratch using x86 Assembly |
-| [Blue Green Drought](https://github.com/PranavNihal/Blue-Green-Drought) | 418 Hackathon Runner-Up |
+| [EON](https://github.com/PranavNihal/EON) | A programming language built from scratch in x86 Assembly — custom syntax, parser, and runtime |
+| [Blue Green Drought](https://github.com/PranavNihal/Blue-Green-Drought) | Hackathon project exploring water scarcity — Runner-Up at 418 Hackathon |
+| [Bolzano's Theorem](https://github.com/PranavNihal/Bolzano-s-Theorem) | Root-finding in Python using both linear and bisection search, built on the Intermediate Value Theorem |
  
 ---
  
@@ -36,6 +37,7 @@ Currently focused on sharpening my fundamentals and contributing to open-source 
 │  > building...        [████████░░]  80%  │
 │  > collaborating...   [██████░░░░]  60%  │
 │                                          │
-│  status: always tryna improving          │
+│  status: always improving               │
 └──────────────────────────────────────────┘
 ```
+ 
