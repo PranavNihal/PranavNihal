@@ -1,8 +1,8 @@
 # Hi, I'm Pranav 👋
  
-I'm a developer who enjoys working across the stack — from low-level C/C++ to Python scripts to legacy COBOL systems. I care about writing clean, purposeful code and collaborating on things that actually matter.
+I'm a first-year CS student who enjoys working close to the metal — from x86 Assembly and C/C++ to Python and legacy COBOL systems. I care about writing clean, purposeful code and building things that actually matter.
  
-Currently focused on sharpening my fundamentals and contributing to open-source projects.
+**Currently:** exploring compilers and systems programming · open to collaborations and internships
  
 ---
  
@@ -17,8 +17,8 @@ Currently focused on sharpening my fundamentals and contributing to open-source 
  
 | Project | What it does |
 |--------|--------------|
-| [EON](https://github.com/PranavNihal/EON) | A programming language built from scratch in x86 Assembly — still under development |
-| [Blue Green Drought](https://github.com/PranavNihal/Blue-Green-Drought) | Hackathon project exploring water scarcity — Runner-Up at 418 Hackathon |
+| [EON](https://github.com/PranavNihal/EON) | A programming language built from scratch in x86 Assembly — custom syntax, parser, and runtime |
+| [Blue Green Drought](https://github.com/PranavNihal/Blue-Green-Drought) | Analyzes satellite imagery of Earth to predict water scarcity before it becomes visible — Runner-Up at 418 Hackathon |
 | [Bolzano's Theorem](https://github.com/PranavNihal/Bolzano-s-Theorem) | Root-finding in Python using both linear and bisection search, built on the Intermediate Value Theorem |
  
 ---
@@ -37,7 +37,7 @@ Currently focused on sharpening my fundamentals and contributing to open-source 
 │  > building...        [████████░░]  80%  │
 │  > collaborating...   [██████░░░░]  60%  │
 │                                          │
-│  status: always improving                │
+│  status: always improving               │
 └──────────────────────────────────────────┘
 ```
  
