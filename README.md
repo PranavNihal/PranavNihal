@@ -15,12 +15,10 @@ Currently focused on sharpening my fundamentals and contributing to open-source 
  
 ## Projects
  
-<!-- Pin your 2–3 best repos below and give each a one-liner -->
- 
 | Project | What it does |
 |--------|--------------|
-| [EON](https://github.com/PranavNihal/EON) | Short description of what it does and why |
-| [Repo name](https://github.com/PranavNihal) | Short description of what it does and why |
+| [EON](https://github.com/PranavNihal/EON) | A Custom Programming Language Coded completely from scratch using x86 Assembly |
+| [Blue Green Drought](https://github.com/PranavNihal/Blue-Green-Drought) | 418 Hackathon Runner-Up |
  
 ---
  
