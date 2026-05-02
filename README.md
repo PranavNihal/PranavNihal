@@ -19,7 +19,7 @@ Currently focused on sharpening my fundamentals and contributing to open-source 
  
 | Project | What it does |
 |--------|--------------|
-| [Repo name](https://github.com/PranavNihal) | Short description of what it does and why |
+| [EON](https://github.com/PranavNihal) | Short description of what it does and why |
 | [Repo name](https://github.com/PranavNihal) | Short description of what it does and why |
  
 ---
