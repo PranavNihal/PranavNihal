@@ -36,6 +36,6 @@ Currently focused on sharpening my fundamentals and contributing to open-source 
 │  > building...        [████████░░]  80%  │
 │  > collaborating...   [██████░░░░]  60%  │
 │                                          │
-│  status: always improving               │
+│  status: always tryna improving          │
 └──────────────────────────────────────────┘
 ```
