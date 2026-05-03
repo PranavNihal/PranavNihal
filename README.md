@@ -17,7 +17,7 @@ I'm a first-year CS student who enjoys working close to the metal — from x86 A
  
 | Project | What it does |
 |--------|--------------|
-| [EON](https://github.com/PranavNihal/EON) | A programming language built from scratch in x86 Assembly — custom syntax, parser, and runtime |
+| [EON](https://github.com/PranavNihal/EON) | A programming language built from scratch in x86 Assembly — custom syntax, parser, and runtime [Under Development] |
 | [Blue Green Drought](https://github.com/PranavNihal/Blue-Green-Drought) | Analyzes satellite imagery of Earth to predict water scarcity before it becomes visible — Runner-Up at 418 Hackathon |
 | [Bolzano's Theorem](https://github.com/PranavNihal/Bolzano-s-Theorem) | Root-finding in Python using both linear and bisection search, built on the Intermediate Value Theorem |
  
