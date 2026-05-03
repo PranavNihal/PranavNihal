@@ -13,7 +13,7 @@ I'm a first-year CS student who enjoys working close to the metal — from x86 A
  
 ---
  
-## Projects
+## Projects -(There are more)-
  
 | Project | What it does |
 |--------|--------------|
