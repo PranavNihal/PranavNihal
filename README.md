@@ -42,7 +42,7 @@ I'm a second-year CS student who enjoys working close to the metal — from x86 
 ║  verdict: still processing...            ║
 ╚══════════════════════════════════════════╝
 ```
-                                                                                                To be a star, you must burn
+                                                                                 To be a star, you must burn
 ---
 *Avatar artwork is fanart of Ciel (Tensura) — artist unknown, if you know the source please let me know.*
  
