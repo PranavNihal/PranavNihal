@@ -2,7 +2,7 @@
  
 I'm a second-year CS student who enjoys working close to the metal — from x86 Assembly, C/C++ , Python and Rust. I care about writing clean, purposeful code and building things that actually matter.
  
-**Currently:** exploring compilers and systems programming · open to collaborations and internships
+**Currently:** exploring compilers and systems programming · open to collaborations 
  
 ---
  
